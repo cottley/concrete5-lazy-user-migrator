@@ -1,0 +1,16 @@
+{
+    "name": "c5labs/lazy_user_migrator_package",
+    "description": "Quick and simple way to export your concrete5 users from one site and import them into another.",
+    "type": "concrete5-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Koudys, Christopher Ottley",
+            "email": "cottley@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "dev-concrete5-installation-path-updates"
+    }
+}
